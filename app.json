@@ -1,9 +1,9 @@
 {
-    "name": "M8N Music Bot",
+    "name": "kaal Music Bot",
     "description": "Powerful telegram's group voice chat music player. Run on python3 !!",
-    "logo": "https://telegra.ph/file/22265bda0d1d8c2b1978a.jpg",
+    "logo": "https://telegra.ph/file/25ca738bc43a24a3fe640.jpg",
     "keywords": ["music", "voice chat", "telegram"],
-    "repository": "https://github.com/UnknownMortal/M8N-Music-Bot",
+    "repository": "https://github.com/garwmishra/kaal",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -43,22 +43,22 @@
         "SUPPORT": {
             "description": "Fill with your support group username without @",
             "required": true,
-            "value": "M8N_SUPPORT"
+            "value": "KAAL_KI_PUBLIC"
         },
         "UPDATE": {
             "description": "Fill with your Update Channel username without @",
             "required": true,
-            "value": "M8N_OFFICIAL"
+            "value": "BAD_BOY_KAAL"
         },
         "OWNER_USERNAME": {
             "description": "Fill with the Bot Owner Username without @",
             "required": true,
-            "value": "Its_romeoo"
+            "value": "PANDIT_GARW_MISHRA"
         },
         "BOT_NAME": {
             "description": "fill with telegram name of bot",
             "required": true,
-            "value": ""
+            "value": "☬🇰ᴀᴀʟ Mᴜsɪᴄ♛࿐"
         },
         "HEROKU_API_KEY": {
             "description": "Your Heroku API key, get it from 'https://dashboard.heroku.com/account'",
@@ -76,8 +76,8 @@
             "value": ""
         },
         "START_PIC": {
-            "description": "Enter the telegraph link of an image or contact @M8N_SUPPORT",
-            "value": "",
+            "description": "Enter the telegraph link of an image or contact @PANDIT_GARW_MISHRA",
+            "value": "https://telegra.ph/file/7860310ca89599b473201.jpg",
             "required": true
         },
         "API_ID": {
@@ -93,7 +93,7 @@
         "SUDO_USERS": {
             "description": "fill with the user id who can access all function in your bot (separate with space).",
             "required": true,
-            "value": "5058236569"
+            "value": "5180914165"
         },
         "DURATION_LIMIT": {
             "description": "filled, don't change this !!",
